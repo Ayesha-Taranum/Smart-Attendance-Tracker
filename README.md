@@ -170,29 +170,3 @@ Modify logging levels in:
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## 🐛 Known Issues
-
-- Ensure proper database configuration before running the application
-- Check Tomcat server logs for any deployment issues
-- Verify Java version compatibility
-
-## 📞 Support
-
-For support and questions:
-- Create an issue in the repository
-- Check existing documentation
-- Review the project report in the `Report/` directory
-
-## 🔮 Future Enhancements
-
-- **Mobile Application**: Develop a mobile app for easier access
-- **Biometric Integration**: Add fingerprint/face recognition for attendance
-- **SMS Notifications**: Implement SMS alerts for attendance updates
-- **Advanced Analytics**: Add detailed attendance analytics and insights
-- **REST API**: Develop RESTful APIs for third-party integrations
-- **Cloud Deployment**: Support for cloud-based deployment
-
----
-
-**Note**: This system is designed for educational institutions to streamline attendance management processes. Ensure proper testing in a development environment before deploying to production.
